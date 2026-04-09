@@ -4,6 +4,8 @@
 
 A collection of computer vision projects covering classical image processing, deep learning-based visual analysis, and motion analysis using OpenCV, PyTorch, and HuggingFace Transformers.
 
+![Demo](demo.png)
+
 ---
 
 ## Projects
